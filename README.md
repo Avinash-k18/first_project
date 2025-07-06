@@ -16,8 +16,9 @@ A simple and fun web-based number matching game built using **HTML, CSS, and Jav
 ---
 
 ## 🖼️ Demo
+![image](https://github.com/user-attachments/assets/4a6cb76e-eacb-49b9-813c-35ae480ff3c6)
 
-![Bubble Game Screenshot](screenshot.png) <!-- You can add your own screenshot image -->
+
 
 ---
 
