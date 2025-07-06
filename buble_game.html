@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bubble Game</title>
+  <link rel="stylesheet" href="bubble_game.css"/>
+</head>
+<body>
+  <div class="main">
+    <div class="top-panel">
+      <div>Target: <span id="hit"></span></div>
+      <div>Score: <span id="score">0</span></div>
+      <div>Time: <span id="timer">60</span>s</div>
+    </div>
+
+    <div class="bubble-container" id="bubble-container">
+    </div>
+
+    <button id="restart-btn" style="display: none; margin-top: 20px;">Restart Game</button>
+  </div>
+
+  <script src="bubble_game.js"></script>
+</body>
+</html>
